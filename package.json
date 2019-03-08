@@ -1,7 +1,7 @@
 {
-  "name": "endshift",
+  "name": "app",
   "version": "1.0.0",
-  "description": "Endshift Website",
+  "description": "App description",
   "author": "Ali Hassan",
   "devDependencies": {
     "browser-sync": "^2.14.2",
