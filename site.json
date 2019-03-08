@@ -1,0 +1,8 @@
+{
+  "siteName": "Site Name",
+  "siteRootUrl": "http://localhost:3000/",
+  "ogImageUrl": "http://localhost:3000/assets/images/og-image.jpg",
+  "fbAppId": "",
+  "twitterSite": "",
+  "googleAnalyticsId": ""
+}
